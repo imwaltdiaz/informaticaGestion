@@ -223,3 +223,103 @@ Cuando no vas a rechazar una transacción, osea lo tomas totalmente cierto y no 
 
 Para reducir el riesgo aplicaremos técnicas de mitigación
 
+
+# Seguridad de los entornos Web
+
+La ética de la información se refiere a los principios del bien y del mal en la gestión de la información
+
+Las organizaciones y empresas socialmente responsables se preocupan que sus directivos tomen decisiones éticas
+
+Es ético que tu trabajo dependa de un algoritmo?
+Es ético usar deepfakes? 
+
+**Categorías de la ética de la información**
+
+*Privacidad*
+Implica recolección, almacenamiento y diseminación de la información sobre las personas
+Para que tu información no se venda al mejor postor
+
+*Precisión*
+Implica la autenticidad, fidelidad y exactitud de la información que se recoge y se procesa
+Ejm información médica, no se puede cometer errores
+
+*Propiedad*
+Indica la propiedad y el valor de la información
+No se basa en copiar la información y venderla, hay niveles de derecho de autor, tenemos el copyright
+
+*Accesibilidad*
+Gira en torno a la persona que tiene acceso a la información
+
+
+**Malware**
+Objetivo:
+- Tomar el control del dispositivo para eliminar o secuestrar los datos o producir un funcionamiento defectuoso que puede ser irrevrsible
+- Robar información personal (nombre de usuario, contraseñas, nro de cuenta bancaria, etc)
+
+Ejm: virus stuxnet 
+
+Un malware es infeccioso que se activa cuando accede a un sistema operativo, programa o archivo infectado
+
+Un virus no tiene la capacidad para replicarse, por lo que su objetivo es infectar el sistema y dañarlo según la finalidad para el que haya sido creado
+
+virus metamórficos, virus polimórficos...
+
+Un malware o gusano, se puede autorreplicar y propagar a través de redes informáticas sin intervención humana 
+
+Un ransomware accede a otras computadoras de una red para que vean la carpeta de otra computadora, va a ver las carpetas compartidas y se va autocopiar
+
+Un troyano se hace pasar como software inofensivo pero tiene el objetivo de hacerse pasar como software inofensivo pero te termina robando 
+ejm: rogue software
+
+*Antivirus*
+Intentan detectar la presencia de malware en un computador
+- Utilizan metodos heurísticos
+- Poseen una base de datos de firma que se van actualizando
+
+Problema de la parada
+
+Creacion de Malware
+No vimos F
+
+Ocultación de la información
+Es una amenaza que se da para que un mensaje o la información no sea visible a una tercera persona
+- Ofuscación de código
+- Encriptación o Cifrado
+- Esteganografía
+
+Ofuscación de código
+Ofuscar es cambiar letras por ejemplo, que no parezca visible
+
+Encriptación o cifrado
+La criptografía, sirve para cifrar de modo que no puede ser descifrado si una clave
+La criptografia no oculta la información, no saben el contendio paro saben lo hecho
+No es visible pero se sabe que esta ahí
+
+Cifrado Atbash
+Sustitución a base del abecedario invertido
+
+Esteganofrafía
+Oculta la información o la hace invisible a simple vista
+
+De una imagen y una imagen secreta, se usa un codificador con una clave para crear una estegoimagen
+
+A simple vista, las imagenes son identicas
+
+Y estas imagenes se pasan por un cana lde comunicacion, pasan por un decodificador y se separa la imagen de la imagen secreta
+
+Taller de Esteganografia
+
+
+Atajos de excel
+Usa las flechitas
+
+Datos en Excel
+Formulas
+```
+=PI()*A2^2
+```
+- Funciones: PI()
+- Referencia a celdas
+
+
+
