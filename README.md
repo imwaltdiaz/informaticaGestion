@@ -323,3 +323,12 @@ Formulas
 
 
 
+> Falta clase pasada
+
+=contar.si.conjunto(C16;C22;">=18")
+
+d es dia
+dd es dia con 0
+ddd es dia de la semana
+
+Igual paa con m, mm y mmm
