@@ -435,3 +435,5 @@ B89
 **Data marts**
 Subconjunto de dw
 
+power bi es un data warehouse
+
