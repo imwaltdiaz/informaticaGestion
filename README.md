@@ -332,3 +332,106 @@ dd es dia con 0
 ddd es dia de la semana
 
 Igual paa con m, mm y mmm
+
+
+## 
+
+> house of cards
+
+> Multi Health Systems deciden si una persona es buena o mala
+
+Los datos no deben dirigir las decisiones, son una herramienta
+
+**Proceso de toma de decisiones**
+
+Razonamiento  ointeligencia 
+- Se examina la realidad, se identifica y define el problema u oportunidad
+
+Diseño
+- Se construye un modelo, e valida y se fijan los critarios para la evaluación de las potenciales soluciones alternativas que se identifican
+
+Elección
+- Implica selecciona una solución, la cual se prueba de manera teórica o sobre el papel
+
+Implementación
+- Resolución del problema original y aprovechamiento de la oportudidad, si fracasa, se regresa a las fases previas
+
+**Inteligencia para los Negocios (BI)**
+
+Usar sistemas de información (TI) con buenas practicas para tomar la data y así tomar decisiones optimizando el negocio
+
+**Analítica de Negocios(BA)**
+
+Conjunto de soluciones para predecir escenarios a base de la data que tienes y ver cual es la situación ideal a la cual quieres apuntar
+
+Los sistemas de BI buscan los datos de ayer y hoy para tomar mejores decisiones para mañana
+
+Tratan de responder las sgtes preguntas
+- Que pasó?
+- Por qe pasó?
+- Que pasará?
+- Que debería hacer?
+
+**Evolución del análisis de la BI**
+
+BI Tradicional
+Descriptivo
+- Que pasó 
+- Reportes
+
+Diagnostico
+- Por que pasó
+- Dashboards interactivos
+
+
+Análisis Avanzado
+Predictivo
+- Que pasará
+- Modelos predictivos
+
+Prescriptivo
+- Que debería hacer
+- Recomendaciones/Automatización
+
+Insight
+"Es un descubrimiento" 
+
+**Necesidade de información de los usuarios  de negocios**
+
+Alta dirección
+- Cuadros de mando
+- Dashboards
+
+Dirección intermedia
+- OLAP
+- Consultad ad-hoc
+
+Nivel Operativo
+- Informes preformateados
+
+Orientaciones de los sistemas BI
+> Insertar grafico
+
+**Inteligencia de Negocios para todos**
+
+3era ola
+BI Usuario final (Todos los usuarios)
+
+2da ola
+BI Autoservicio
+Analistas de información
+
+1era ola
+BI Tradicional
+Departamento TI
+
+**Arquitectura de un Sistema BI**
+> Insertar gráfico
+
+B89
+
+**Almacén de dato (Data warehouse)**
+
+**Data marts**
+Subconjunto de dw
+
