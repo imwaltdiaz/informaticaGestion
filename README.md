@@ -322,4 +322,5 @@ Formulas
 - Referencia a celdas
 
 
+F4 aparece los simbolos de dolar, va a bloquear las referencias, estoh ara que al copiar la formula en otros lados no cambie
 
