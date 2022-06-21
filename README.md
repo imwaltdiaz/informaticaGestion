@@ -438,3 +438,18 @@ Subconjunto de dw
 
 power bi es un data warehouse
 
+## Desarrollo web
+
+http es el protocolo por el cual va a viajar la pagina web de un server a un cliente
+
+```html
+<html>
+<head>
+	<title>Mi primera web</title>		
+</head>
+<body>
+	Esta es la web ulima
+</body>
+</html>
+```
+
